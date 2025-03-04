@@ -30,10 +30,10 @@
 
 Install globally with npm:
 ```bash
-sudo npm install -g terminal-wizard-apache
+npm install -g terminal-wizard-apache
 ```
 
-> **Note**: Requires Node.js. If you don’t have it, install it first with `sudo apt install nodejs npm` (Ubuntu/Debian).
+> **Note**: Requires Node.js and npm. If you don’t have them, download and install from [nodejs.org/en/download](https://nodejs.org/en/download) for your operating system.
 
 ---
 
@@ -102,4 +102,4 @@ MIT License. Free to use and modify. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Marcelo XP** - [GitHub](https://github.com/marceloxp)
+- **Marcelo XP** - [GitHub](https://github.com/marceloxp)
