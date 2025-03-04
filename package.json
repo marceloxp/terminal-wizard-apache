@@ -1,6 +1,6 @@
 {
   "name": "terminal-wizard-apache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive wizard for configuring Apache2 in the terminal",
   "repository": "https://github.com/marceloxp/terminal-wizard-apache",
   "homepage": "https://github.com/marceloxp/terminal-wizard-apache#readme",
