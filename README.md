@@ -30,7 +30,7 @@
 
 Install globally with npm:
 ```bash
-npm install -g terminal-wizard-apache
+sudo npm install -g terminal-wizard-apache
 ```
 
 > **Note**: Requires Node.js and npm. If you don’t have them, download and install from [nodejs.org/en/download](https://nodejs.org/en/download) for your operating system.
