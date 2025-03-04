@@ -1,8 +1,15 @@
 {
   "name": "terminal-wizard-apache",
   "version": "1.0.0",
-  "repository": "https://github.com/marceloxp/terminal-wizard-apache",
   "description": "Interactive wizard for configuring Apache2 in the terminal",
+  "repository": "https://github.com/marceloxp/terminal-wizard-apache",
+  "homepage": "https://github.com/marceloxp/terminal-wizard-apache#readme",
+  "keywords": [
+    "apache",
+    "terminal",
+    "wizard",
+    "cli"
+  ],
   "main": "index.js",
   "bin": {
     "terminal-wizard-apache": "./index.js"
