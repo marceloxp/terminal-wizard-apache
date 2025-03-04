@@ -1,0 +1,15 @@
+{
+  "name": "terminal-wizard-apache",
+  "version": "1.0.0",
+  "repository": "https://github.com/marceloxp/terminal-wizard-apache",
+  "description": "Interactive wizard for configuring Apache2 in the terminal",
+  "main": "index.js",
+  "bin": {
+    "terminal-wizard-apache": "./index.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.0"
+  },
+  "author": "Marcelo XP",
+  "license": "MIT"
+}
